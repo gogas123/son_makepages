@@ -1,0 +1,27 @@
+{
+	"remotePath": "./public_html/gall_boot",
+	"host": "songoku.wisevill.com",
+	"username": "songoku",
+	"password": "1q2w3e4r",
+	"port": 22,
+	"secure": false,
+	"protocol": "sftp",
+	"uploadOnSave": true,
+	"passive": true,
+	"debug": false,
+	"privateKeyPath": null,
+	"passphrase": null,
+	"agent": null,
+	"allow": [],
+	"ignore": [
+		"\\.vscode",
+		"\\.git",
+		"\\.DS_Store",
+		"\\.gz"
+	],
+	"generatedFiles": {
+		"uploadOnSave": false,
+		"extensionsToInclude": [],
+		"path": ""
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"remotePath": "./www/",
+	"host": "gogas123.cafe24.com",
+	"username": "gogas123",
+	"password": "rotjdgh125",
+	"port": 22,
+	"secure": false,
+	"protocol": "sftp",
+	"uploadOnSave": true,
+	"passive": true,
+	"debug": false,
+	"privateKeyPath": null,
+	"passphrase": null,
+	"agent": null,
+	"allow": [],
+	"ignore": [
+		"\\.vscode",
+		"\\.git",
+		"\\.DS_Store",
+		"\\.gz"
+	],
+	"generatedFiles": {
+		"uploadOnSave": false,
+		"extensionsToInclude": [],
+		"path": ""
+	}
+}
